@@ -1,4 +1,7 @@
 ## Project 1
+### Overview
+In this project, we build a database system to model HetioNet, an integrative network of biomedical knowledge that connects biological nodes such as compounds, diseases, genes, and anatomy. The goal of this project is to load and query its data to output necessary information for disease treatment analysis.
+
 Link to report: 
 [Report](https://docs.google.com/document/d/19-s-TqtGGt06S83x9CpMVKc6PMBsF3vEUVvHFsKJHno/edit?tab=t.0)
 ### Query 1
